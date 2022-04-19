@@ -4,18 +4,20 @@
     "url": "https://app.spgjobi.com",
     "icon": "https://favicons.githubusercontent.com/app.spgjobi.com",
     "slug": "production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 230,
-    "timeWeek": 278,
-    "timeMonth": 299,
+    "timeDay": 285,
+    "timeWeek": 282,
+    "timeMonth": 300,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Development",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 260,
-    "timeDay": 252,
-    "timeWeek": 278,
-    "timeMonth": 285,
+    "timeDay": 263,
+    "timeWeek": 272,
+    "timeMonth": 286,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2021-12-03": 72,
