@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/app.spgjobi.com",
     "slug": "production",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 270,
     "timeDay": 285,
     "timeWeek": 282,
     "timeMonth": 300,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 39
     }
   },
   {
