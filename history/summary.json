@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/app.spgjobi.com",
     "slug": "production",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.58%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.32%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "99.58%",
     "time": 270,
-    "timeDay": 285,
-    "timeWeek": 282,
-    "timeMonth": 300,
+    "timeDay": 0,
+    "timeWeek": 280,
+    "timeMonth": 301,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-04-19": 39
+      "2022-04-20": 67,
+      "2022-04-19": 1413
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 260,
-    "timeDay": 263,
+    "timeDay": 253,
     "timeWeek": 272,
-    "timeMonth": 286,
+    "timeMonth": 285,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2021-12-03": 72,
